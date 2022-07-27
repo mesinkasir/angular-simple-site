@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Meta, Title } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-home',
@@ -36,7 +37,18 @@ export class HomeComponent implements OnInit {
   text9 =
     'Dan ya.. jika menggunakan online mode maka secara otomatis akan mendapatkan sebuah website informasi yang terintegrasi langsung dengan aplikasi mu, disini kita bisa merubah semua tampilan dan text secara customise dengan selera desain kamu sendiri, dan tentunya semakin menarik pada premium version akan mendapatkan online order, whatsapp order, hingga qr code menu digital - yang berfungsi untuk menampilkan semua menu yang sudah kita inputkan pada aplikasi untuk ditampilkan dan dipilih oleh pelanggan, dan dalam bekerja pelanggan nantinya tinggal scann qrcode menu digital , nantinya pelanggan akan melihat seluruh menu makanan dan minuman yang tersedia. bukan cuma itu saja masih hadir lagi android app informasi untuk semakin dekat dengan pelanggan jika menggunakan online mode untuk kemajuan bisnis usaha restoran cafe rumah makan kuliner mu.';
 
-  constructor() {}
-
+  constructor(private meta: Meta, private title: Title) {
+    this.meta.addTags([
+      {
+        name: 'description',
+        content:
+          'Pengusaha restoran cafe rumah makan dan kuliner wajib tau mesin kasir restoran ini ,waiters,kitchen ,kasir dan admin lengkap',
+      },
+    ]);
+    this.setTitle('Mesin Kasir Restoran');
+  }
+  public setTitle(newTitle: string) {
+    this.title.setTitle(newTitle);
+  }
   ngOnInit() {}
 }
