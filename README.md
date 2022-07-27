@@ -12,7 +12,7 @@ Fork Stackblitz Source Code Now : [https://www.hockeycomputindo.com/2022/07/angu
 
 simple angular skeleton display
 
-![angular website template](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWK0RT2JwJzcbQsa0t0Yfp_MgoJlJwQSwSopiNtFQ7t-mgslFfA6-96rrmZwDeUCXaOPRFxkT10rm3u-PzvB6oMkJBGdwrnpRrIPUJeJMD6wOI4VnhnnWcBLUttriVHCCi4B0eQ7JkamE3INh9B0Rpb3auMZREKQvzD4W1GuhkTOZo_d3l-0U7MbOhsg/s1349/angular%20seo.png)
+![angular website template](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgehFz4IF4rNTzstfRCkDsq8xfyBXWE9nrmgnJi_EIzBfxMu0ZhQQLWUbhADUrEAMconswpS-XL98XqVnP9odFjz1WqJ9V0cD7PyrKlmj0bXw2yTHvaVdodnVuo8N3mwMBWfTo3L4_i-MtIBbKGq1t_CJlAVETt_cHiqBW3ILGvPReGTpZEr4u22kD-pA/s1349/angular%20seo.png)
 
 lighthouse test
 
