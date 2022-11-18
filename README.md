@@ -4,6 +4,8 @@ Doc and live codding : [https://www.hockeycomputindo.com/2022/07/angular-simple-
 
 Demo : [https://mesinkasirrestoran.vercel.app/](https://mesinkasirrestoran.vercel.app/)
 
+Demo minimalist : [https://mesinkasir.vercel.app/](https://mesinkasir.vercel.app/)
+
 Fork Stackblitz Source Code Now : [https://www.hockeycomputindo.com/2022/07/angular-simple-site-skeleton-starter.html](https://www.hockeycomputindo.com/2022/07/angular-simple-site-skeleton-starter.html)
 
 ---
@@ -21,5 +23,7 @@ lighthouse test
 Doc and live codding : [https://www.hockeycomputindo.com/2022/07/angular-simple-site-skeleton-starter.html](https://www.hockeycomputindo.com/2022/07/angular-simple-site-skeleton-starter.html)
 
 Demo : [https://mesinkasirrestoran.vercel.app/](https://mesinkasirrestoran.vercel.app/)
+
+Demo minimalist : [https://mesinkasir.vercel.app/](https://mesinkasir.vercel.app/)
 
 Fork Stackblitz Source Code Now : [https://www.hockeycomputindo.com/2022/07/angular-simple-site-skeleton-starter.html](https://www.hockeycomputindo.com/2022/07/angular-simple-site-skeleton-starter.html)
